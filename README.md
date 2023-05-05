@@ -1,16 +1,9 @@
-# locator2
+# Permissions Project.
 
-A new Flutter project.
+## Complete Project.
 
-## Getting Started
+![Screenshot_51](https://user-images.githubusercontent.com/121153074/236395426-ad5cc60b-18be-4499-a44e-ba72e63f7f71.png)
+![Screenshot_52](https://user-images.githubusercontent.com/121153074/236395468-d0cf2135-045e-4a16-98b2-09bc091ff7a8.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
